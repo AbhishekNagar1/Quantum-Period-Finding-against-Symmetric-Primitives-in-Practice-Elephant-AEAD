@@ -1,0 +1,4 @@
+Primitive,State (n),Key (k),Classical Brute Force (log2),Grover Quantum Gates (log2),Grover Qubits,Simon Classical Queries (log2),Simon Quantum Operations (log2),Simon Logical Qubits,Paper Finding
+Elephant-Dumbo,160,128,128,74.94,384,53.33,78.5,1620,More expensive than Grover key search (Attack unfeasible)
+Chaskey,128,128,128,74.94,320,42.67,65.2,1580,Faster than classical collision bounds and exhaustive search
+PRINCE,64,128,128,74.94,192,21.33,64.8,840,Significantly faster than exhaustive search

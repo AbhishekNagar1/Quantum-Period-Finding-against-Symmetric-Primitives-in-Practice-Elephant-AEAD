@@ -1,0 +1,3 @@
+Model,State Bits (n),Step Index,True Active Mask,Recovered Active Mask,Mask Match,Recovered Root Mask,Root Match,Circuit Depth,Total Qubits,Samples Needed,Success
+Reduced-Elephant-4bit,4,2,0b1100,0b1100,True,0b1011,True,70,8,5,True
+Reduced-Elephant-8bit,8,1,0b1011001,0b1011001,True,0b10101100,True,1658,16,64,True
